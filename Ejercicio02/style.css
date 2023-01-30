@@ -1,0 +1,26 @@
+.borde{
+    border: solid 3px black;
+    background-color: aliceblue;
+}
+body{
+    background-image: url('/Img/platanito.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+   background-attachment: fixed;
+  
+
+
+}
+.bordes{
+    border: solid 3px blue;
+    background-color: white;
+}
+.borde2{
+    border: solid 3px deeppink;
+    background-color: yellow;
+}
+p{
+    text-align: center;
+    transform:translateY(100%);
+
+}
